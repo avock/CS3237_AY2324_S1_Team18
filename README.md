@@ -1,4 +1,4 @@
-# Wall-ESP Code
+# Wall-ESP
 
 This cpp file is to be uploaded to the ESP32 that is connected to the respective
 sensors and servo through the indicated pins.
