@@ -20,5 +20,11 @@ Contains code used for :
 
 # Gesture Recognition CNN
 
-Contains the jupyternotebook used to train the CNN for gesture recognition and
-the dataset used to train said model.
+-   gestureRecognition_modelTraining.ipynb file contains the training code for
+    CNN model.
+-   gestureRecognition_modelPrediction.ipynb file contains the code to load and
+    deploy the trained CNN model
+-   trained CNN model is saved as handclassifier6.pt
+-   10113-bg4.jpg and 10113-hand5.jpg are sample background and gesture images
+    used for prediction.
+-   gesture_dataset.zip is the hand gesture training dataset found online.
